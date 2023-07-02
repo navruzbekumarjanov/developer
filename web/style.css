@@ -1,0 +1,28 @@
+body{
+  background: url(salom.jpg);
+}
+
+.red1 {
+  color: rgb(247, 242, 242);
+  background-color: rgb(10, 53, 242);
+  text-decoration: dotted;
+  font-size: 500%;
+  margin: 5px;
+  border: 10px solid rgb(240, 180, 96);
+  padding: 30px;
+}
+.box2 {
+  background-color: rgb(194, 125, 22);
+  color: red;
+  font-size: 200%;
+  border: 10px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+.red3 {
+  background-color: rgb(253, 253, 37);
+  color: rgb(13, 25, 252);
+  border: 5px solid pink;
+  padding: 10px;
+  margin: 5px;
+}
